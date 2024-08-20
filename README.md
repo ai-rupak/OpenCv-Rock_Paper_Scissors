@@ -59,7 +59,7 @@ This is a Rock Paper Scissors game implemented using OpenCV, cvzone, and Mediapi
 
 ## Screenshot
 
-![Gameplay Screenshot](./Resources/screenshot.png)
+![Gameplay Screenshot](./Resources/rps.png)
 
 ## License
 
