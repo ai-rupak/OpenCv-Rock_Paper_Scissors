@@ -18,7 +18,7 @@ This is a Rock Paper Scissors game implemented using OpenCV, cvzone, and Mediapi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-game.git
+   git clone https://github.com/ai-rupak/rock-paper-scissors-game.git
    cd rock-paper-scissors-game
    ```
 
