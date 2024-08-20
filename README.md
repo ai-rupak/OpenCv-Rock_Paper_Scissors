@@ -1,7 +1,3 @@
-Here's a README for your Rock Paper Scissors game using OpenCV, cvzone, and Mediapipe:
-
----
-
 # Rock Paper Scissors Game
 
 This is a Rock Paper Scissors game implemented using OpenCV, cvzone, and Mediapipe. The game uses hand gestures to play against an AI that randomly selects its moves. 
