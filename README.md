@@ -37,7 +37,7 @@ This is a Rock Paper Scissors game implemented using OpenCV, cvzone, and Mediapi
 
 1. **Run the script:**
    ```bash
-   python rock_paper_scissors.py
+   python RPS.py
    ```
 
 2. **Start the game:**
